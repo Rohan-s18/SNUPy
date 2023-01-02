@@ -1,6 +1,6 @@
 # SNUPy
 ## Author: Rohan Singh
-Open Source Python Project for Machine Learning. This repository contains the source code for the SNUPy Python package, feel free to fork and add to this project.  
+SNUPy is an open-source machine learning API written in Python. The main goal of SNUPy is to be a simple and flexible API for machine learning.  
 
 SNUPy stands for:  
 **S**NUPy **N**ever **U**sed **Py**thon

@@ -1,0 +1,21 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "SNUPy"
+version = "1.0.1"
+authors = [
+  { name="Rohan Singh", email="rohan.b.singh@gmail.com" },
+]
+description = "Python Package for Machine Learning"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Rohan-s18/SNUPy"
