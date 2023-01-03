@@ -28,5 +28,5 @@ To make sure you have the latest version of pip run the following command:
   
 ## Contact
 For any feedback, suggestions or questions, contact me at:  
-rxs1182@case.edu
+rxs1182@case.edu  
 rohan.b.singh54@gmail.com
