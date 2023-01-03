@@ -11,7 +11,7 @@ import numpy as np
 
 class SingleLayerNN:
 
-    
+
      #The constructor for the Neural Network class
     def __init__(self, dataset, targets, n, m):
         self.trainset = dataset
@@ -175,3 +175,5 @@ class SingleLayerNN:
 
         #Converting the output into a numpy array
         return np.array(output)
+
+
