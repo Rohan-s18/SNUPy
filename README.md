@@ -19,10 +19,18 @@ To make sure you have the latest version of pip run the following command:
     > py -m pip install --upgrade pip
 
 ### UNIX/MacOS/Linux
-  > python3 -m pip install SNUPy==1.0.2
+  > python3 -m pip install SNUPy==1.0.3
 
 ### Windows
-  > py -m pip install SNUPy==1.0.2 
+  > py -m pip install SNUPy==1.0.3  
+  
+
+## Current Work
+SNUPy is currently in version 1.0.3. In the first iteration (1.0.x) the SNUPy project will add simple source code to provide the API users with a simple base to work upon.  
+
+Version 1.0.4 will deal with KMeans clustering as an unsupervised clustering algorithm.  
+
+Version 1.0.5 will deal with Polynomial Regression.  
   
 
   
