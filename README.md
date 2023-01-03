@@ -7,7 +7,9 @@ SNUPy stands for:
 
 This package is dedicated to my closest stuffed Animal, Snoopy :)
 
-## Installation
+## Installation  
+**<a href="https://test.pypi.org/project/SNUPy/1.0.1/"> Click Here </a>** to go tp the PyPI (Python Package Index) link to this project.   
+
 To install the SNUPy library you must use the Pip package installer.  
 
 To make sure you have the latest version of pip run the following command:  
@@ -20,7 +22,9 @@ To make sure you have the latest version of pip run the following command:
   > python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps SNUPy
 
 ### Windows
-  > py -m pip install --index-url https://test.pypi.org/simple/ --no-deps SNUPy
+  > py -m pip install --index-url https://test.pypi.org/simple/ --no-deps SNUPy  
+  
+
   
 ## Contact
 For any feedback, suggestions or questions, contact me at:  
