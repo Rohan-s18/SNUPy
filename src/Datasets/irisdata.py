@@ -47,13 +47,10 @@ def get_iris_list():
     return dataset
 
 
+#Function to get the iris dataset as a numpy ndarray
+def get_iris_ndarray():
+    return  np.array(get_iris_list())
 
 
 
-#Main method
-def main():
 
-    print(get_iris_list())
-
-if __name__ == "__main__":
-    main()
