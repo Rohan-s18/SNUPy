@@ -19,10 +19,10 @@ To make sure you have the latest version of pip run the following command:
     > py -m pip install --upgrade pip
 
 ### UNIX/MacOS/Linux
-  > python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps SNUPy
+  > python3 -m pip install SNUPy==1.0.2
 
 ### Windows
-  > py -m pip install --index-url https://test.pypi.org/simple/ --no-deps SNUPy  
+  > py -m pip install SNUPy==1.0.2 
   
 
   
